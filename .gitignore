@@ -1,0 +1,8 @@
+# Ignore system files
+.DS_Store
+
+# Ignore large raw data
+data/raw/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
